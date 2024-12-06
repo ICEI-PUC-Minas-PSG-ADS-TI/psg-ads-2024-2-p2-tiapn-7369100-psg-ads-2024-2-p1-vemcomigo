@@ -25,7 +25,7 @@ Tela de Pesquisa de Companhia:
 ![image](https://github.com/user-attachments/assets/a45065f5-8d1f-4526-8038-fa6c7500cb60)
 
 Tela de Criação de Grupos:
-![image](https://github.com/user-attachments/assets/04a2b18b-0d51-47c5-bfc1-08c1effaf686)
+* ![image](https://github.com/user-attachments/assets/04a2b18b-0d51-47c5-bfc1-08c1effaf686)
 
 Tela do Processo Juntar-se a um Grupo (1/3):
 ![image](https://github.com/user-attachments/assets/afa7912c-1796-420a-9db8-eac80959e778)
