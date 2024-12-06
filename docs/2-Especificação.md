@@ -2,7 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="01-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-A Solidão e o Sedentarismo estão cada vez mais presente no cotidiano da população, além de muitos outros presos na rotina Cansativa e Estressante no trabalho, conforme estudo da Ipsos (Institut Public de Sondage d'Opinion Secteur), foi observado que 13% dos brasileiros não realizam atividade física alegando que a falta de companhia é um dos motivos. Sendo assim, o projeto busca conectar pessoas, de forma a permitir com que os usuários possam encontrar pessoas com os mesmos interesses que estiverem por perto, podendo encontrar alguém para ir para a academia, ou então para praticar algum esporte que deseja. Além disso, pessoas mais motivadas a se exercitar acabam chamando amigos, aumentando ainda mais o número de pessoas que praticam exercícios físicos.
+A Solidão e o Sedentarismo estão cada vez mais presente no cotidiano da população, além de muitos outros presos na rotina Cansativa e Estressante no trabalho, diante essa premissa urge a necessidade de mudar esse cenário para uma sociedade cada vez mais ativa e mais saudável. Conforme estudo da Ipsos (Institut Public de Sondage d'Opinion Secteur), foi observado que 13% dos brasileiros não realizam atividade física alegando que a falta de companhia é um dos motivos. Sendo assim, o projeto busca conectar pessoas, de forma a permitir com que os usuários possam encontrar pessoas com os mesmos interesses que estiverem por perto, podendo encontrar alguém para ir para a academia, ou então para praticar algum esporte que deseja. Além disso, pessoas mais motivadas a se exercitar acabam chamando amigos, aumentando ainda mais o número de pessoas que praticam exercícios físicos.
 
 ## Personas
 
