@@ -50,57 +50,33 @@ Tela do Processo Juntar-se a um Grupo (Grupo Fechado) (3/3):
 
 #### 4.3.3 Modelo Físico
 
-Insira aqui o script de criação das tabelas do banco de dados.
-
-Veja um exemplo:
-
-<code>
-
- -- Criação da tabela Médico
-CREATE TABLE Medico (
-    MedCodigo INTEGER PRIMARY KEY,
-    MedNome VARCHAR(100)
+Create table Cadastros 
+(
+Nome varchar(50) not null,
+CPF int primary key not null,
+Data_nascimento date not null,
+Nome_usuario varchar (100) unique not null,
+Senha varchar(100) not null,
+Idade int not null,
+UNIQUE (Senha)
 );
 
+CREATE TABLE Conquistas (
+  Conquista_nome varchar(50) NOT NULL,
+  Descricao varchar(200) DEFAULT NULL,
+  idCadastro int DEFAULT NULL,
+  PRIMARY KEY (Conquista_nome),
+  UNIQUE KEY Descricao (Descricao),
+  KEY fk_cadastro_conquista_idx (idCadastro),
+  CONSTRAINT fk_cadastro_conquista FOREIGN KEY (idCadastro) REFERENCES cadastros (CPF) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
 
--- Criação da tabela Paciente
-CREATE TABLE Paciente (
-    PacCodigo INTEGER PRIMARY KEY,
-    PacNome VARCHAR(100)
-);
-
--- Criação da tabela Consulta
-CREATE TABLE Consulta (
-    ConCodigo INTEGER PRIMARY KEY,
-    MedCodigo INTEGER,
-    PacCodigo INTEGER,
-    Data DATE,
-    FOREIGN KEY (MedCodigo) REFERENCES Medico(MedCodigo),
-    FOREIGN KEY (PacCodigo) REFERENCES Paciente(PacCodigo)
-);
-
--- Criação da tabela Medicamento
-CREATE TABLE Medicamento (
-    MdcCodigo INTEGER PRIMARY KEY,
-    MdcNome VARCHAR(100)
-);
-
--- Criação da tabela Prescricao
-CREATE TABLE Prescricao (
-    ConCodigo INTEGER,
-    MdcCodigo INTEGER,
-    Posologia VARCHAR(200),
-    PRIMARY KEY (ConCodigo, MdcCodigo),
-    FOREIGN KEY (ConCodigo) REFERENCES Consulta(ConCodigo),
-    FOREIGN KEY (MdcCodigo) REFERENCES Medicamento(MdcCodigo)
-);
-
-</code>
-
-Este script deverá ser incluído em um arquivo .sql na pasta src\bd.
-
-
-
+Create table Grupos(
+	Grupo_ID int not null primary key,
+    Nome VARCHAR(50) unique,
+    IntegrantesGrupo int not null
+    );	
 
 ### 4.4. Tecnologias
 
