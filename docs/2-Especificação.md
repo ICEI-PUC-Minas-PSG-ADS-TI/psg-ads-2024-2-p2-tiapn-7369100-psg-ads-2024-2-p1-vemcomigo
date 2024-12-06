@@ -32,6 +32,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Pessoa Estressada| Fugir da Rotina e ter um momento de Lazer | Desestressar e pensar menos em trabalho |
 |Pessoa Solitária| Conhecer Pessoas Novas e se Divertir |Conhecer Pessoas Novas por meio do esporte para uma rotina mais saudável mentalmente|
 
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|Administrador de Grupo| Definir a Privacidade de um Grupo de Atividade Física| Controlar a Entrada de Membros |
+|Administrador do Sistema| Gerenciar e Controlar o Fluxo de Usuários | Melhor Funcionamento do Sistema |
+
 
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
