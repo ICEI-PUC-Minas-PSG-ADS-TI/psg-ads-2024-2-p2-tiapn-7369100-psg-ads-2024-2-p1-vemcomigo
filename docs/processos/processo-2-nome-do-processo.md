@@ -22,7 +22,7 @@ Desenho do Processo:
 * Caso o usuário selecione alterar, o processo volta ao ponto de selecionar filtros de busca.
 * Caso contrário, o processo se encerra.
 
-**Nome da atividade 1**
+**Filtrar Busca**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
