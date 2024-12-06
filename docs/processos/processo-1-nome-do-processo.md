@@ -20,21 +20,25 @@ Desenho do Processo:
 
 
 
-**Nome da atividade 1**
+**Inserir Dados Cadastrais:**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
 | [Nome do campo] | [tipo de dados]  |                |                   |
 | ***Exemplo:***  |                  |                |                   |
-| login           | Caixa de Texto   | formato de e-mail |                |
-| senha           | Caixa de Texto   | mínimo de 8 caracteres |           |
+| Nome          | Caixa de Texto   |  Máximo 40 caracteres|               |
+| E-mail         | Caixa de Texto   | Formato de e-mail  |           |
+| CPF| Caixa de Texto| Máximo 11 Caracteres| |
+|Telefone| Tel| Formato de Telefone | |
+|Data de nascimento| Date | Formato de Data | |
+
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
 | [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
 | ***Exemplo:***       |                                |                   |
-| entrar               | Fim do Processo 1              | default           |
-| cadastrar            | Início do proceso de cadastro  |                   |
+| Realizar cadastro             | Página destinada para inserção de dados e criação de conta do usuário.              | Button           |
+| Cadastro Feito            | Fim do Processo de cadastro  |   defautl                |
 
 
 **Nome da atividade 2**
