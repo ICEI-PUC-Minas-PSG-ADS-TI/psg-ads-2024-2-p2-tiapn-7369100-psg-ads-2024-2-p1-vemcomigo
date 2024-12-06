@@ -10,17 +10,12 @@ Com essa estrutura, o "Vem Comigo!" busca incentivar a prática de atividades f�
 
 ## 4.1. Arquitetura da solução
 
+O Projeto "Vem Comigo!" utiliza uma arquitetura web onde o usuário interage diretamente com a interface através de páginas web desenvolvidas com HTML, CSS e JavaScript. Essas páginas são carregadas no navegador, que exibe a interface do usuário e realiza a comunicação com o servidor backend.
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+O banco de dados MySQL armazena todas as informações cruciais do sistema, incluindo dados de usuários, grupos e mensagens. O servidor interage com o banco de dados para garantir que as informações sejam salvas corretamente e possam ser acessadas de forma eficiente pelo sistema.
 
- Inclua um diagrama da solução e descreva os módulos e as tecnologias
- que fazem parte da solução. Discorra sobre o diagrama.
+Essa estrutura permite que o "Vem Comigo!" seja uma plataforma interativa e dinâmica para promover a prática de atividades físicas em grupo, com uma integração fluida entre o frontend e o backend.
  
- **Exemplo do diagrama de Arquitetura**:
- 
- ![Exemplo de Arquitetura](./images/arquitetura-exemplo.png)
- 
-
 ### 4.2. Protótipos de telas
 
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
