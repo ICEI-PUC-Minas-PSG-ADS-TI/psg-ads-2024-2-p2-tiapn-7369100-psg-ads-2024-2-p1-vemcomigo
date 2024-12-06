@@ -20,26 +20,14 @@ Jorge Mendes tem 38 anos, gerente de Projetos em uma empresa de tecnologia. Pens
 Persona 4:
 Júlia Fraga tem 27 anos, analista de marketing digital. Pensa em adotar um estilo de vida mais saudável, incorporando atividades físicas e momentos de lazer para melhorar seu bem-estar e reduzir o estresse. Fernanda é extrovertida, energética e criativa, mas costuma se sentir sobrecarregada com a rotina de trabalho e as pressões diárias. Adora música e passa boa parte do tempo ouvindo suas playlists, indo a shows e tocando violão nas horas vagas. Está em busca de novas formas de relaxar, como aulas de dança ou grupos de corrida, e também quer encontrar companhia para atividades ao ar livre.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | Me conectar com demais grupos de atividade física         | Prática Esportiva e uma Vida mais Saudável               |
+|Não Usuário do Sistema      | Possibilidade de criar uma conta                | Fazer Parte da Comunidade com os demais usuários |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
