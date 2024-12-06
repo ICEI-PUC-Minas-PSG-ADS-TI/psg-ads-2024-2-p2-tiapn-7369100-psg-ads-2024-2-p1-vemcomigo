@@ -1,67 +1,42 @@
-### 3.3.2 Processo 2 – NOME DO PROCESSO
+### 3.3.4 Processo 4 – Juntar-se a um Grupo
 
-_Apresente aqui o nome e as oportunidades de melhoria para o processo 2. 
-Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN._
+Descrição do Processo:
 
-![Exemplo de um Modelo BPMN do PROCESSO 2](../images/process.png "Modelo BPMN do Processo 2.")
-
+* O sistema exibe uma lista de grupos disponíveis.
+* Usuário pode aplicar filtros (esporte, localização, privacidade). 
+* Usuário seleciona um grupo para se juntar.
+* O sistema solicita confirmação para a solicitação de adesão: Usuário confirma ou cancela. 
+* Se o usuário confirma: O sistema verifica se o grupo é público ou se é necessário convite. 
+* Se for público, o usuário é adicionado ao grupo. 
+* Se for privado é  enviado um Convite para o Grupo.
+* O administrador recebe uma notificação de convite.
+* ADM clica na notificação para visualizar o pedido.
+* O sistema exibe detalhes do usuário. 
+* Usuário pode aceitar ou recusar o convite. 
+* Se o usuário aceita: O sistema adiciona o usuário ao grupo e envia uma notificação de sucesso. 
+* Se o usuário recusa: O sistema informa que o convite foi recusado e retorna à tela anterior.
+  
+Desenho do Processo:
+![image](https://github.com/user-attachments/assets/2d92a407-4ac3-42a0-88b4-04b97438f96c)
 
 #### Detalhamento das atividades
 
-_Descreva aqui cada uma das propriedades das atividades do processo 2. 
-Devem estar relacionadas com o modelo de processo apresentado anteriormente._
+* A atividade de "Juntar-se a um Grupo" permite que o usuário busque grupos disponíveis de acordo com seus interesses. 
+* O usuário pode aplicar filtros (como esporte, localização e privacidade) para encontrar grupos relevantes. 
+* Ao selecionar um grupo, o usuário deve confirmar sua intenção de se juntar. 
+* O sistema verifica se o grupo é público ou privado. 
+* Se for público, o usuário é adicionado imediatamente; 
+* Se for privado, um convite é enviado ao administrador, que poderá aceitar ou recusar a solicitação.
 
-_Os tipos de dados a serem utilizados são:_
 
-_* **Área de texto** - campo texto de múltiplas linhas_
-
-_* **Caixa de texto** - campo texto de uma linha_
-
-_* **Número** - campo numérico_
-
-_* **Data** - campo do tipo data (dd-mm-aaaa)_
-
-_* **Hora** - campo do tipo hora (hh:mm:ss)_
-
-_* **Data e Hora** - campo do tipo data e hora (dd-mm-aaaa, hh:mm:ss)_
-
-_* **Imagem** - campo contendo uma imagem_
-
-_* **Seleção única** - campo com várias opções de valores que são mutuamente exclusivas (tradicional radio button ou combobox)_
-
-_* **Seleção múltipla** - campo com várias opções que podem ser selecionadas mutuamente (tradicional checkbox ou listbox)_
-
-_* **Arquivo** - campo de upload de documento_
-
-_* **Link** - campo que armazena uma URL_
-
-_* **Tabela** - campo formado por uma matriz de valores_
-
-**Nome da atividade 1**
+**Filtros de Pesquisa**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| [Nome do campo] | [tipo de dados]  |                |                   |
-| ***Exemplo:***  |                  |                |                   |
-| login           | Caixa de Texto   | formato de e-mail |                |
-| senha           | Caixa de Texto   | mínimo de 8 caracteres |           |
+| Esporte         | Dropdown    | Selecionar um Esporte |                |
+| Privacidade            | Botões de seleção   | Selecionar uma Opção |           |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
-| ***Exemplo:***       |                                |                   |
-| entrar               | Fim do Processo 1              | default           |
-| cadastrar            | Início do proceso de cadastro  |                   |
-
-
-**Nome da atividade 2**
-
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-| [Nome do campo] | [tipo de dados]  |                |                   |
-|                 |                  |                |                   |
-
-| **Comandos**         |  **Destino**                   | **Tipo**          |
-| ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
-|                      |                                |                   |
+| Selecionar um Grupo               | Dados do Grupo             | default           |
+| Entrar no Grupo          | Envia uma mensagem para o ADM do grupo e adiciona o usuário no grupo  |                   |
