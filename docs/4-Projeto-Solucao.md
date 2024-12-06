@@ -51,6 +51,7 @@ Tela do Processo Juntar-se a um Grupo (Grupo Fechado) (3/3):
 #### 4.3.3 Modelo Físico
 
 <script>
+	
 CREATE TABLE Cadastros 
 (
 Nome varchar(50) not null,
@@ -77,7 +78,8 @@ UNIQUE (Senha)
 	Grupo_ID int not null primary key,
     Nome VARCHAR(50) unique,
     IntegrantesGrupo int not null
-    );	
+    );
+	
 </script>
 ### 4.4. Tecnologias
 
