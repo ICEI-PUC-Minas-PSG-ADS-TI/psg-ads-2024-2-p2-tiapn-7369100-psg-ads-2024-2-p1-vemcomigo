@@ -26,16 +26,16 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Me conectar com demais grupos de atividade física         | Prática Esportiva e uma Vida mais Saudável               |
-|Não Usuário do Sistema| Possibilidade de criar uma conta                | Fazer Parte da Comunidade com os demais usuários |
 |Pessoa Sedentária| Sair de Casa e Praticar Atividades Físicas| Rotina Saudável Fisicamente e Mentalmente|
 |Pessoa Estressada| Fugir da Rotina e ter um momento de Lazer | Desestressar e pensar menos em trabalho |
 |Pessoa Solitária| Conhecer Pessoas Novas e se Divertir |Conhecer Pessoas Novas por meio do esporte para uma rotina mais saudável mentalmente|
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Administrador de Grupo| Definir a Privacidade de um Grupo de Atividade Física| Controlar a Entrada de Membros |
+|Usuário do sistema  | Me conectar com demais grupos de atividade física         | Prática Esportiva e uma Vida mais Saudável               |
+|Não Usuário do Sistema| Possibilidade de criar uma conta                | Fazer Parte da Comunidade com os demais usuários |
 |Administrador do Sistema| Gerenciar e Controlar o Fluxo de Usuários | Melhor Funcionamento do Sistema |
+|Administrador de Grupo| Definir a Privacidade de um Grupo de Atividade Física| Controlar a Entrada de Membros |
 
 
 
