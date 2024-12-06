@@ -9,7 +9,7 @@ Descrição do Processo:
 * Se sim, ele prossegue, se não, ele volta em um looping, informando que os dados são incorretos Ao prosseguir, o sistema realiza o cadastro do usuário;
 
 
-![Exemplo de um Modelo BPMN do PROCESSO 1](Cadastro.jfif)
+![Exemplo de um Modelo BPMN do PROCESSO 1]([Cadastro.jfif](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-2-p2-tiapn-7369100-psg-ads-2024-2-p1-vemcomigo/blob/main/docs/images/Cadastro.jfif))
 
 
 #### Detalhamento das atividades
