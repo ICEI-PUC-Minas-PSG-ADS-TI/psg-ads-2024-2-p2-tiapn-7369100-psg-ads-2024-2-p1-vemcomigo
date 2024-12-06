@@ -9,7 +9,7 @@ Descrição do Processo:
 * Se sim, ele prossegue, se não, ele volta em um looping, informando que os dados são incorretos Ao prosseguir, o sistema realiza o cadastro do usuário;
 
 
-![Exemplo de um Modelo BPMN do PROCESSO 1](../images/process.png "Modelo BPMN do Processo 1.")
+![Exemplo de um Modelo BPMN do PROCESSO 1]("../images/Cadastro.jfif "Imagem do Cadastro")
 
 #### Detalhamento das atividades
 
