@@ -1,50 +1,33 @@
-### 3.3.2 Processo 2 – NOME DO PROCESSO
+### 3.3.2 Processo 3 – Criação de Grupo
 
-_Apresente aqui o nome e as oportunidades de melhoria para o processo 2. 
-Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN._
+Descrição do Processo:
 
-![Exemplo de um Modelo BPMN do PROCESSO 2](../images/process.png "Modelo BPMN do Processo 2.")
+* Criação de Grupos Usuário entra no app Usuário seleciona a opção "Criar Grupo" ou "Juntar-se a um Grupo".
+* Criar Grupo: O sistema solicita os dados do grupo: Nome do grupo, Descrição do grupo “Esporte”, Privacidade (público ou privado), Usuário insere os dados necessários, Requisitos para estar nesse grupo O sistema verifica se os dados são válidos: Nome do grupo não pode estar vazio, Descrição deve ter um mínimo de caracteres, Esporte deve ser selecionado. Privacidade deve ser definida. 
+* Se os dados são válidos: O sistema cria o grupo e adiciona o usuário como administrador. 
+* O sistema envia uma notificação de sucesso.
+* Se os dados não são válidos: O sistema informa que os dados estão incorretos. 
 
+Desenho do Processo:
+![image](https://github.com/user-attachments/assets/f7dbd842-10e6-474e-b4dd-7a4449f0fcbb)
 
 #### Detalhamento das atividades
 
-_Descreva aqui cada uma das propriedades das atividades do processo 2. 
-Devem estar relacionadas com o modelo de processo apresentado anteriormente._
+* A atividade de "Criar Grupo" permite que o usuário inicie um novo grupo, definindo suas características principais. 
+* O usuário deve inserir informações como nome do grupo, descrição, esporte de interesse, privacidade e requisitos para adesão. 
+* O sistema valida os dados inseridos, garantindo que estejam corretos. 
+* Se as informações forem válidas, o grupo é criado e o usuário se torna o administrador. 
+* Caso contrário, o sistema informa os erros encontrados, permitindo que o usuário corrija os dados.
 
-_Os tipos de dados a serem utilizados são:_
-
-_* **Área de texto** - campo texto de múltiplas linhas_
-
-_* **Caixa de texto** - campo texto de uma linha_
-
-_* **Número** - campo numérico_
-
-_* **Data** - campo do tipo data (dd-mm-aaaa)_
-
-_* **Hora** - campo do tipo hora (hh:mm:ss)_
-
-_* **Data e Hora** - campo do tipo data e hora (dd-mm-aaaa, hh:mm:ss)_
-
-_* **Imagem** - campo contendo uma imagem_
-
-_* **Seleção única** - campo com várias opções de valores que são mutuamente exclusivas (tradicional radio button ou combobox)_
-
-_* **Seleção múltipla** - campo com várias opções que podem ser selecionadas mutuamente (tradicional checkbox ou listbox)_
-
-_* **Arquivo** - campo de upload de documento_
-
-_* **Link** - campo que armazena uma URL_
-
-_* **Tabela** - campo formado por uma matriz de valores_
-
-**Nome da atividade 1**
+**Criação de Grupos**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| [Nome do campo] | [tipo de dados]  |                |                   |
-| ***Exemplo:***  |                  |                |                   |
-| login           | Caixa de Texto   | formato de e-mail |                |
-| senha           | Caixa de Texto   | mínimo de 8 caracteres |           |
+| Nome do Grupo           | Caixa de Texto   | Não pode estar vazio. |                |
+| Descrição do Grupo           | Caixa de Texto   | mínimo de 10 caracteres |           |
+| Esporte | Dropdown| Deve ser selecionado.| |
+| Privacidade| Botões de seleção |Privacidade deve ser definida. | |
+| Requisitos para Estar no Grupo| Caixa de Texto | mínimo de 10 caracteres| |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
