@@ -11,7 +11,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Gabriel Assis Melo Noronha
-* Iuri Diego Victor Nascimento
+* Iuri Diego Victor Nascimento Dias
 * Lucas Vinícius Farias Cunha
 * Samuel Vitor Silveira da Silva
 
