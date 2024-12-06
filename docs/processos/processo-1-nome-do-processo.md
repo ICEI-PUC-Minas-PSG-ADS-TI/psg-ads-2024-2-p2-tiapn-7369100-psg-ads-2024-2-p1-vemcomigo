@@ -24,8 +24,6 @@ Desenho do Processo:
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| [Nome do campo] | [tipo de dados]  |                |                   |
-| ***Exemplo:***  |                  |                |                   |
 | Nome          | Caixa de Texto   |  Máximo 40 caracteres|               |
 | E-mail         | Caixa de Texto   | Formato de e-mail  |           |
 | CPF| Caixa de Texto| Máximo 11 Caracteres| |
@@ -34,21 +32,5 @@ Desenho do Processo:
 
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
-| ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
-| ***Exemplo:***       |                                |                   |
 | Realizar cadastro             | Página destinada para inserção de dados e criação de conta do usuário.              | Button           |
 | Cadastro Feito            | Fim do Processo de cadastro  |   defautl                |
-
-
-**Nome da atividade 2**
-
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-| [Nome do campo] | [tipo de dados]  |                |                   |
-|                 |                  |                |                   |
-
-| **Comandos**         |  **Destino**                   | **Tipo**          |
-| ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
-|                      |                                |                   |
