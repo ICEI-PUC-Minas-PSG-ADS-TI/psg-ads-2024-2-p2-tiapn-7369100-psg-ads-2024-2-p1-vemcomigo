@@ -32,5 +32,6 @@ Desenho do Processo:
 
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
+| ---             | ---              | ---            | ---               |
 | Realizar cadastro             | Página destinada para inserção de dados e criação de conta do usuário.              | Button           |
 | Cadastro Feito            | Fim do Processo de cadastro  |   defautl                |
