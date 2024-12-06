@@ -43,20 +43,10 @@ Tela do Processo Juntar-se a um Grupo (Grupo Fechado) (3/3):
 ### 4.3. Modelo de dados
 
 #### 4.3.1 Modelo ER
-
-O
+![image](https://github.com/user-attachments/assets/4a30b14b-a6ac-427b-b20d-3a9f5d4fa17c)
 
 #### 4.3.2 Esquema Relacional
-
-O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
- 
-As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
-
-> - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
-
-![Exemplo de um modelo relacional](images/modeloRelacional.png "Exemplo de Modelo Relacional.")
----
-
+![image](https://github.com/user-attachments/assets/fcbeacdf-5f04-4ff1-a9ee-515426ec92c2)
 
 #### 4.3.3 Modelo Físico
 
