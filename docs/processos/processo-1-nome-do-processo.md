@@ -9,7 +9,7 @@ Descrição do Processo:
 * Se sim, ele prossegue, se não, ele volta em um looping, informando que os dados são incorretos Ao prosseguir, o sistema realiza o cadastro do usuário;
 
 
-(![image](https://github.com/user-attachments/assets/8afcec3c-78c7-41cc-883e-bebf6c9bd677)
+![image](https://github.com/user-attachments/assets/8afcec3c-78c7-41cc-883e-bebf6c9bd677)
 
 
 #### Detalhamento das atividades
