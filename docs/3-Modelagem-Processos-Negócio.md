@@ -35,6 +35,10 @@ Benefícios esperados:
 
 ### 3.2. Descrição geral da proposta (Modelagem TO BE)
 
+* Usuários podem criar perfis detalhados, especificando suas preferências de atividades esportivas, níveis de experiência, metas de saúde e horários disponíveis.
+* A plataforma conta com um menu de busca para usuários se conectarem a pessoas e grupos com interesses semelhantes.
+* A plataforma permite que os usuários formem grupos voltada a prática de exercícios físicos que podem ser abertos para a comunidade ou privados, dependendo da preferência dos participantes.
+* A plataforma permite que os usuários se juntem a grupos baseados em interesses comuns, como caminhada, corrida, ciclismo, yoga, esportes coletivos, entre outros.
 
 
 ### 3.3. Modelagem dos processos
