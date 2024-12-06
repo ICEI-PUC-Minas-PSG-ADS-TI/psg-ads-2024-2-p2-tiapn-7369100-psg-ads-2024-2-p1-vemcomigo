@@ -2,9 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="01-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A Solidão e o Sedentarismo estão cada vez mais presente no cotidiano da população, além de muitos outros presos na rotina Cansativa e Estressante no trabalho, conforme estudo da Ipsos (Institut Public de Sondage d'Opinion Secteur), foi observado que 13% dos brasileiros não realizam atividade física alegando que a falta de companhia é um dos motivos. Sendo assim, o projeto busca conectar pessoas, de forma a permitir com que os usuários possam encontrar pessoas com os mesmos interesses que estiverem por perto, podendo encontrar alguém para ir para a academia, ou então para praticar algum esporte que deseja. Além disso, pessoas mais motivadas a se exercitar acabam chamando amigos, aumentando ainda mais o número de pessoas que praticam exercícios físicos.
 
 ## Personas
 
@@ -37,19 +35,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Administrador do Sistema| Gerenciar e Controlar o Fluxo de Usuários | Melhor Funcionamento do Sistema |
 |Administrador de Grupo| Definir a Privacidade de um Grupo de Atividade Física| Controlar a Entrada de Membros |
 
-
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-
-
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
@@ -58,30 +43,23 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário cria sua conta | ALTA | 
+|RF-002| Permitir que o usuário crie um grupo   | ALTA |
+|RF-003| Permitir que o usuário faça parte de um grupo   | ALTA |
+|RF-004| Permitir que o administrador de um grupo publique um roteiro de atividades | MÉDIA |
+|RF-005| Permitir que o usuário se conecte a outros usuários   | MÉDIA |
+|RF-006| Permitir que o usuário receba conquistas  | BAIXA |
+|RF-007| Permitir que o usuário publique suas práticas diárias   | MÉDIA |
+|RF-008| Permitir que o usuário curta publicações  | BAIXA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-002| O sistema deve armazenar usuários e grupos em um sistema de Banco de Dados |  ALTA |
+|RNF-003| O sistema deve funcionar por 24 horas |  MÉDIA |
+|RNF-004| O sistema deve manter o bom funcionamento mesmo com alto número de acessos simultâneos |  MÉDIA |
 
 ## Restrições
 
@@ -91,9 +69,5 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|03| O Projeto deve conter telas desenvolvidas por meio das Tecnologias HTML, CSS E JS        |
+|04| O Projeto deve conter um sistema de Banco de Dados Integrado       |
