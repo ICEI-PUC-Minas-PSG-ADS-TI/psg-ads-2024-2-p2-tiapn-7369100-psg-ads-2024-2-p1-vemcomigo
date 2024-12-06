@@ -1,19 +1,19 @@
-# TÍTULO DO PROJETO
+# Vem Comigo!
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Trabalho Interdisciplinar`
 
-`SEMESTRE`
+`Segundo Semestre`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Gabriel Assis Melo Noronha
+* Iuri Diego Victor Nascimento
+* Lucas Vinícius Farias Cunha
+* Samuel Vitor Silveira da Silva
 
 ## Orientador
 
