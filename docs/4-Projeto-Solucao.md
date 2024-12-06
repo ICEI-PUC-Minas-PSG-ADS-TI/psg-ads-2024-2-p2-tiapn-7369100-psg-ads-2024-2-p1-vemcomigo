@@ -50,7 +50,8 @@ Tela do Processo Juntar-se a um Grupo (Grupo Fechado) (3/3):
 
 #### 4.3.3 Modelo Físico
 
-*CREATE TABLE Cadastros 
+<script>
+CREATE TABLE Cadastros 
 (
 Nome varchar(50) not null,
 CPF int primary key not null,
@@ -61,7 +62,7 @@ Idade int not null,
 UNIQUE (Senha)
 );
 
-* CREATE TABLE Conquistas (
+ CREATE TABLE Conquistas (
   Conquista_nome varchar(50) NOT NULL,
   Descricao varchar(200) DEFAULT NULL,
   idCadastro int DEFAULT NULL,
@@ -72,12 +73,12 @@ UNIQUE (Senha)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
-* CREATE TABLE Grupos(
+ CREATE TABLE Grupos(
 	Grupo_ID int not null primary key,
     Nome VARCHAR(50) unique,
     IntegrantesGrupo int not null
     );	
-
+</script>
 ### 4.4. Tecnologias
 
 _Descreva qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas._
