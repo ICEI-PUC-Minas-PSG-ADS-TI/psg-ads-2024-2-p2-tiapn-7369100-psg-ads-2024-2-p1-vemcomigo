@@ -36,7 +36,14 @@ Desenho do Processo:
 | Esporte         | Dropdown    | Selecionar um Esporte |                |
 | Privacidade            | Botões de seleção   | Selecionar uma Opção |           |
 
+**Entrar no Grupo**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| Lista com os Grupos       | Lista    | Selecionar um Grupo|                |
+
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
 | Selecionar um Grupo               | Dados do Grupo             | default           |
 | Entrar no Grupo          | Envia uma mensagem para o ADM do grupo e adiciona o usuário no grupo  |                   |
+| Cancelar| Retorna ao Menu | |
