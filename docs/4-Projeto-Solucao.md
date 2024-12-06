@@ -72,7 +72,6 @@ UNIQUE (Senha)
   KEY fk_cadastro_conquista_idx (idCadastro),
   CONSTRAINT fk_cadastro_conquista FOREIGN KEY (idCadastro) REFERENCES cadastros (CPF) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
-/*!40101 SET character_set_client = @saved_cs_client */;
 
  CREATE TABLE Grupos(
 	Grupo_ID int not null primary key,
