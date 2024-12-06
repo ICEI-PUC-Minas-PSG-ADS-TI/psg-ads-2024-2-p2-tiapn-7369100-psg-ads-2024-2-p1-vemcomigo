@@ -82,15 +82,10 @@ UNIQUE (Senha)
 </script>
 ### 4.4. Tecnologias
 
-_Descreva qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas._
-
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
-
-
 | **Dimensão**   | **Tecnologia**  |
 | ---            | ---             |
 | SGBD           | MySQL           |
 | Front end      | HTML+CSS+JS     |
-| Back end       | Java SpringBoot |
+| Back end       | JavaScript |
 | Deploy         | Github Pages    |
 
