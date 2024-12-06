@@ -14,34 +14,10 @@ Desenho do Processo:
 
 #### Detalhamento das atividades
 
-_Descreva aqui cada uma das propriedades das atividades do processo 1. 
-Devem estar relacionadas com o modelo de processo apresentado anteriormente._
+* Descrição da atividade - Quando o usuário acessa o site, o sistema solicita que ele forneça alguns dados essenciais, como nome, e-mail, CPF, telefone e data de nascimento. Após inserir essas informações, o sistema realiza uma verificação para garantir que todos os dados estejam corretos.
+* Se algum dos dados fornecidos não for válido — como um e-mail mal formatado ou um CPF inválido — o sistema informará ao usuário o erro e pedirá para corrigir as informações. Esse processo de verificação continua até que todos os dados sejam considerados válidos.
+* Uma vez que as informações estejam corretas, o sistema realiza o cadastro do usuário com sucesso, confirmando que o processo foi concluído.
 
-_Os tipos de dados a serem utilizados são:_
-
-_* **Área de texto** - campo texto de múltiplas linhas_
-
-_* **Caixa de texto** - campo texto de uma linha_
-
-_* **Número** - campo numérico_
-
-_* **Data** - campo do tipo data (dd-mm-aaaa)_
-
-_* **Hora** - campo do tipo hora (hh:mm:ss)_
-
-_* **Data e Hora** - campo do tipo data e hora (dd-mm-aaaa, hh:mm:ss)_
-
-_* **Imagem** - campo contendo uma imagem_
-
-_* **Seleção única** - campo com várias opções de valores que são mutuamente exclusivas (tradicional radio button ou combobox)_
-
-_* **Seleção múltipla** - campo com várias opções que podem ser selecionadas mutuamente (tradicional checkbox ou listbox)_
-
-_* **Arquivo** - campo de upload de documento_
-
-_* **Link** - campo que armazena uma URL_
-
-_* **Tabela** - campo formado por uma matriz de valores_
 
 
 **Nome da atividade 1**
