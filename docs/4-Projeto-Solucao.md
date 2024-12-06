@@ -1,6 +1,12 @@
 ## 4. Projeto da Solução
 
-<span style="color:red">Pré-requisitos: <a href="03-Modelagem do Processo de Negocio.md"> Modelagem do Processo de Negocio</a></span>
+O Projeto "Vem Comigo!" é uma aplicação voltada para a prática de atividades físicas, onde usuários podem criar grupos, interagir com outros membros, compartilhar informações sobre exercícios e acompanhar seu progresso. A aplicação será desenvolvida utilizando HTML, CSS e JavaScript no front-end, garantindo uma interface moderna, acessível e responsiva, enquanto o MySQL será empregado no back-end para gerenciar de forma segura os dados armazenados.
+
+O site oferece uma tela interativa de cadastro, onde os usuários podem inserir seus dados para criar um login, que será utilizado para acessar a aplicação posteriormente. Cada usuário terá um perfil personalizado, permitindo visualizar suas informações pessoais, grupos aos quais pertence. Além disso, os usuários poderão criar ou participar de grupos voltados para diferentes modalidades de exercícios, como corrida, yoga ou musculação.
+
+O banco de dados será modelado para controlar os relacionamentos entre usuário e grupos, trazendo maior controle e segurança a esses dados. A comunicação entre o front-end e o banco de dados garantirá uma integração funcional e segura para o usuário. A aplicação contará ainda com uma página inicial dinâmica, que exibirá um menu de pesquisa para que outros usuários possam encontrar pessoas e grupos com gostos parecidos.
+
+Com essa estrutura, o "Vem Comigo!" busca incentivar a prática de atividades físicas em grupo, promovendo interação entre os usuários e oferecendo uma plataforma fácil de usar para gerenciar e compartilhar experiências de treino.
 
 ## 4.1. Arquitetura da solução
 
