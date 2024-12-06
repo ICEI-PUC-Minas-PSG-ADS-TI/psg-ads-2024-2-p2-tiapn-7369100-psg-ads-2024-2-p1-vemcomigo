@@ -8,7 +8,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Caio Ribeiro tem 22 anos, Estudante universitário de Design Gráfico. Pensa em adotar hábitos mais saudáveis, incluindo atividades físicas de forma gradual, busca também aumentar sua autoestima e sentir-se mais confortável com seu corpo e mais confiante nas interações sociais, tem com mais um bjetivo reduzir o estresse usando o exercício e a alimentação saudável como uma maneira de lidar melhor com o estresse do dia a dia, Caio é Introvertido, criativo e um pouco procrastinador, Caio gosta de passar o tempo jogando videogames e assistindo séries, e também adora desenhar nas horas vagas. Está buscando companhias para praticar uma caminhada 3 vezes na semana.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
