@@ -45,4 +45,4 @@ Benefícios esperados:
 
 [PROCESSO 1 - Cadastro de Usuário](./processos/processo-1-nome-do-processo.md "Detalhamento do Processo 1.")
 
-[PROCESSO 2 - Nome do Processo](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
+[PROCESSO 2 - Pesquisa de Companhia](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
