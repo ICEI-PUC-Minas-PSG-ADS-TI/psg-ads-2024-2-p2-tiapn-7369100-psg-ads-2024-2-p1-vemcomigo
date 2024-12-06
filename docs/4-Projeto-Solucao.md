@@ -18,22 +18,23 @@ Essa estrutura permite que o "Vem Comigo!" seja uma plataforma interativa e din�
  
 ### 4.2. Protótipos de telas
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="02-Especificação do Projeto.md"> Especificação do Projeto</a>.
-A partir das atividades de usuário identificadas na seção anterior, elabore o protótipo de tela de cada uma delas.
-![Exemplo de Wireframe](images/wireframe-example.png)
+Tela de Cadastro:
+![image](https://github.com/user-attachments/assets/0ece60ac-f87b-4164-9d8d-9ab053443aa0)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+Tela de Pesquisa de Companhia:
+![image](https://github.com/user-attachments/assets/a45065f5-8d1f-4526-8038-fa6c7500cb60)
 
+Tela de Criação de Grupos:
+![image](https://github.com/user-attachments/assets/04a2b18b-0d51-47c5-bfc1-08c1effaf686)
+
+Tela do Processo Juntar-se a um Grupo (1/3):
+![image](https://github.com/user-attachments/assets/afa7912c-1796-420a-9db8-eac80959e778)
+
+Tela do Processo Juntar-se a um Grupo (Grupo Aberto) (2/3):
+![image](https://github.com/user-attachments/assets/2be47cd0-cbfa-4b07-9cf8-521d486fcbfd)
+
+Tela do Processo Juntar-se a um Grupo (Grupo Fechado) (3/3):
+![image](https://github.com/user-attachments/assets/49ef0571-027d-4f97-b082-f72fd5dff580)
 
 ## Diagrama de Classes
 
