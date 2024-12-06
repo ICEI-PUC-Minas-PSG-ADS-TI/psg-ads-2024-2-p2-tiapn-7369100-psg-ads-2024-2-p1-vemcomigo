@@ -1,7 +1,12 @@
-### 3.3.1 Processo 1 – NOME DO PROCESSO
+### 3.3.1 Processo 1 – Cadastro de Usuários
 
-_Apresente aqui o nome e as oportunidades de melhoria para o processo 1. 
-Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN._
+Descrição do Processo:
+Usuário entra no site;
+O sistema solicita os dados da pessoa;
+O usuário insere os dados necessários (Nome, E-mail, CPF, Telefone, Data de Nascimento);
+O sistema verifica se os dados são válidos;
+Se sim, ele prossegue, se não, ele volta em um looping, informando que os dados são incorretos Ao prosseguir, o sistema realiza o cadastro do usuário;
+
 
 ![Exemplo de um Modelo BPMN do PROCESSO 1](../images/process.png "Modelo BPMN do Processo 1.")
 
