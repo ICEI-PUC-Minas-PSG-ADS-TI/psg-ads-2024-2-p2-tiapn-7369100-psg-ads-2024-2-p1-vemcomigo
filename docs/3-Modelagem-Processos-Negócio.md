@@ -46,3 +46,9 @@ Benefícios esperados:
 [PROCESSO 1 - Cadastro de Usuário](./processos/processo-1-nome-do-processo.md "Detalhamento do Processo 1.")
 
 [PROCESSO 2 - Pesquisa de Companhia](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
+
+[PROCESSO 3 - Criação de Grupo](./processos/processo-3-nome-do-processo.md "Detalhamento do Processo 3.")
+
+[PROCESSO 4 - Juntar-se a um Grupo](./processos/processo-4-nome-do-processo.md "Detalhamento do Processo 4.")
+
+
