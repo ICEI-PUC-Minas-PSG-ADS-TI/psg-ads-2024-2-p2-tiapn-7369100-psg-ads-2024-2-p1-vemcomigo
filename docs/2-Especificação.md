@@ -27,7 +27,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Me conectar com demais grupos de atividade física         | Prática Esportiva e uma Vida mais Saudável               |
-|Não Usuário do Sistema      | Possibilidade de criar uma conta                | Fazer Parte da Comunidade com os demais usuários |
+|Não Usuário do Sistema| Possibilidade de criar uma conta                | Fazer Parte da Comunidade com os demais usuários |
+|Pessoa Sedentária| Sair de Casa e Praticar Atividades Físicas| Rotina Saudável Fisicamente e Mentalmente|
+|Pessoa Estressada| Fugir da Rotina e ter um momento de Lazer | Desestressar e pensar menos em trabalho |
+|Pessoa Solitária| Conhecer Pessoas Novas e se Divertir |Conhecer Pessoas Novas por meio do esporte para uma rotina mais saudável mentalmente|
+
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
