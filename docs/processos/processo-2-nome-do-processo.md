@@ -8,7 +8,7 @@ Descrição do Processo:
 * Se a validação obter sucesso o usuário é redirecionado para os resultados gerais da busca, se obter falha, uma mensagem aparecerá para informar a falta de resultados.
 
 Desenho do Processo:
-![image](![image](https://github.com/user-attachments/assets/ab2368b5-7c1c-4e1d-b85e-9d2501e16b97)
+![image](https://github.com/user-attachments/assets/ab2368b5-7c1c-4e1d-b85e-9d2501e16b97)
 
 
 
