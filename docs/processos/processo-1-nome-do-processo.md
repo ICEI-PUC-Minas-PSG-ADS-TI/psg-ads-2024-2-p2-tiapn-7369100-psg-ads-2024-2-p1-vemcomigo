@@ -14,7 +14,7 @@ Desenho do Processo:
 
 #### Detalhamento das atividades
 
-* Descrição da atividade - Quando o usuário acessa o site, o sistema solicita que ele forneça alguns dados essenciais, como nome, e-mail, CPF, telefone e data de nascimento. Após inserir essas informações, o sistema realiza uma verificação para garantir que todos os dados estejam corretos.
+* Quando o usuário acessa o site, o sistema solicita que ele forneça alguns dados essenciais, como nome, e-mail, CPF, telefone e data de nascimento. Após inserir essas informações, o sistema realiza uma verificação para garantir que todos os dados estejam corretos.
 * Se algum dos dados fornecidos não for válido — como um e-mail mal formatado ou um CPF inválido — o sistema informará ao usuário o erro e pedirá para corrigir as informações. Esse processo de verificação continua até que todos os dados sejam considerados válidos.
 * Uma vez que as informações estejam corretas, o sistema realiza o cadastro do usuário com sucesso, confirmando que o processo foi concluído.
 
