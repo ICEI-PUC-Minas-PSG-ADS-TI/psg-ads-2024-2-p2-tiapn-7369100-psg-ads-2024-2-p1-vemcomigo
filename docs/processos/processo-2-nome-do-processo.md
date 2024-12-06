@@ -1,9 +1,14 @@
-### 3.3.2 Processo 2 – NOME DO PROCESSO
+### 3.3.2 Processo 2 – Pesquisa de Companhia
 
-_Apresente aqui o nome e as oportunidades de melhoria para o processo 2. 
-Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN._
+Descrição do Processo:
+* Usuário deve iniciar a busca ao acessar nossa barra de pesquisa, a função deverá ser realizada sem ou com o uso de filtros (idade, localização, esporte).
+* O usuário insere um conjunto de palavras na barra de pesquisa. Exemplo: "futebol", "natação", "corrida".
+* Usuário pode escolher adicionar filtros (opcional): O sistema oferece opções de filtros como idade, localização, esporte. Esses filtros são opcionais e podem ser adicionados antes da busca.
+* O sistema deverá realizar uma busca e validação pelos resultados semelhantes a da busca, ele irá encontrar correspondências com base nas palavras ou filtros, ou seja, se o conjunto de palavras digitada pelo usuário se encontram nos dados do site ou se há a ocorrência de pessoas, grupos com o mesmo filtro buscado.
+* Se a validação obter sucesso o usuário é redirecionado para os resultados gerais da busca, se obter falha, uma mensagem aparecerá para informar a falta de resultados.
 
-![Exemplo de um Modelo BPMN do PROCESSO 2](../images/process.png "Modelo BPMN do Processo 2.")
+Desenho do Processo:
+![image]([https://github.com/user-attachments/assets/8afcec3c-78c7-41cc-883e-bebf6c9bd677](https://raw.githubusercontent.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-2-p2-tiapn-7369100-psg-ads-2024-2-p1-vemcomigo/refs/heads/main/docs/images/pesquisa-companhia.jfif))
 
 
 #### Detalhamento das atividades
