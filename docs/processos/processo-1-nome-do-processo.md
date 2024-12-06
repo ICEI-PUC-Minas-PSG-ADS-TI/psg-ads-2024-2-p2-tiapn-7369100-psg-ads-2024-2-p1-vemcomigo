@@ -1,11 +1,12 @@
 ### 3.3.1 Processo 1 – Cadastro de Usuários
 
 Descrição do Processo:
-Usuário entra no site;
-O sistema solicita os dados da pessoa;
-O usuário insere os dados necessários (Nome, E-mail, CPF, Telefone, Data de Nascimento);
-O sistema verifica se os dados são válidos;
-Se sim, ele prossegue, se não, ele volta em um looping, informando que os dados são incorretos Ao prosseguir, o sistema realiza o cadastro do usuário;
+
+* Usuário entra no site;
+* O sistema solicita os dados da pessoa;
+* O usuário insere os dados necessários (Nome, E-mail, CPF, Telefone, Data de Nascimento);
+* O sistema verifica se os dados são válidos;
+* Se sim, ele prossegue, se não, ele volta em um looping, informando que os dados são incorretos Ao prosseguir, o sistema realiza o cadastro do usuário;
 
 
 ![Exemplo de um Modelo BPMN do PROCESSO 1](../images/process.png "Modelo BPMN do Processo 1.")
