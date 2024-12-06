@@ -1,4 +1,4 @@
-### 3.3.2 Processo 3 – Criação de Grupo
+### 3.3.3 Processo 3 – Criação de Grupo
 
 Descrição do Processo:
 
