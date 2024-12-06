@@ -8,7 +8,17 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Caio Ribeiro tem 22 anos, Estudante universitário de Design Gráfico. Pensa em adotar hábitos mais saudáveis, incluindo atividades físicas de forma gradual, busca também aumentar sua autoestima e sentir-se mais confortável com seu corpo e mais confiante nas interações sociais, tem com mais um bjetivo reduzir o estresse usando o exercício e a alimentação saudável como uma maneira de lidar melhor com o estresse do dia a dia, Caio é Introvertido, criativo e um pouco procrastinador, Caio gosta de passar o tempo jogando videogames e assistindo séries, e também adora desenhar nas horas vagas. Está buscando companhias para praticar uma caminhada 3 vezes na semana.
+Persona 1: 
+Caio Ribeiro tem 22 anos, Estudante universitário de Design Gráfico. Pensa em adotar hábitos mais saudáveis, incluindo atividades físicas de forma gradual, busca também aumentar sua autoestima e sentir-se mais confortável com seu corpo e mais confiante nas interações sociais, tem com mais um objetivo reduzir o estresse usando o exercício e a alimentação saudável como uma maneira de lidar melhor com o estresse do dia a dia, Caio é Introvertido, criativo e um pouco procrastinador, Caio gosta de passar o tempo jogando videogames e assistindo séries, e também adora desenhar nas horas vagas. Está buscando companhias para praticar uma caminhada 3 vezes na semana.
+
+Persona 2:
+Maria da Silva tem 63 anos, aposentada e ex-professora de História. Pensa em melhorar sua saúde mental e manter-se ativa fisicamente, saindo de casa com mais frequência e participando de atividades que tragam prazer e leveza. Seu objetivo é também encontrar uma rotina social que a ajude a se conectar com outras pessoas e combater a solidão. Maria é amável, carinhosa e um pouco melancólica. Gosta de ler, fazer palavras cruzadas e ouvir música clássica. Está buscando grupos de caminhada e atividades comunitárias que a ajudem a manter-se ativa e fazer novas amizades.
+
+Persona 3:
+Jorge Mendes tem 38 anos, gerente de Projetos em uma empresa de tecnologia. Pensa em desestressar e equilibrar sua rotina de trabalho com momentos de lazer, melhorando sua qualidade de vida e saúde mental. Jorge é apaixonado por futebol, como mudou de cidade recentemente, está em busca de novos parceiros para jogar futebol no fim de semana e fazer amigos. Ele é determinado, pragmático e focado, mas tem dificuldade em desconectar-se do trabalho. Gosta de Viajar, e Cozinhar para a sua Família. Está buscando formas de relaxar após o trabalho, manter o equilíbrio e fazer novas amizades preferencialmente por meio do esporte.
+
+Persona 4:
+Júlia Fraga tem 27 anos, analista de marketing digital. Pensa em adotar um estilo de vida mais saudável, incorporando atividades físicas e momentos de lazer para melhorar seu bem-estar e reduzir o estresse. Fernanda é extrovertida, energética e criativa, mas costuma se sentir sobrecarregada com a rotina de trabalho e as pressões diárias. Adora música e passa boa parte do tempo ouvindo suas playlists, indo a shows e tocando violão nas horas vagas. Está em busca de novas formas de relaxar, como aulas de dança ou grupos de corrida, e também quer encontrar companhia para atividades ao ar livre.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
