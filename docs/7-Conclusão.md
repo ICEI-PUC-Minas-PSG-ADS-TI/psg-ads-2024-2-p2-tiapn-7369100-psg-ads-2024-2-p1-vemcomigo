@@ -1,80 +1,9 @@
-# Planejamento do Projeto
+# 7 - Conclusão
 
-## 5.1. Divisão de Papéis
+O projeto Vem Comigo! demonstrou o potencial de contribuir significativamente para a promoção de hábitos saudáveis, enfrentando o sedentarismo e o isolamento social de maneira prática e inovadora. Como resultado desse trabalho universitário, conseguimos desenvolver uma proposta de plataforma digital que conecta pessoas com interesses esportivos em comum, promovendo a prática de atividades físicas de forma acessível e inclusiva. O sistema de avaliações e feedback foi projetado para oferecer segurança e confiabilidade aos usuários, fortalecendo a comunidade criada ao redor do projeto.
 
-- **Product Owner:** Lucas Vinícius Farias Cunha
-- **Scrum Master:** Samuel Vitor Silveira da Silva
-- **Desenvolvedor Front-end:** Gabriel Assis Melo Noronha
-- **Desenvolvedor Back-end:** Lucas Vinícius Farias Cunha
-  
----
+Entretanto, reconhecemos algumas limitações. Por se tratar de um projeto acadêmico, a implementação completa e a adesão de um público amplo dependeriam de recursos financeiros e de parcerias estratégicas que ainda estão fora do alcance inicial. Além disso, a manutenção e a expansão da plataforma requerem estudos adicionais para garantir sua eficácia e acessibilidade para diferentes perfis de usuários.
 
-## 5.2. Quadro de Tarefas
+Para trabalhos futuros, sugerimos explorar parcerias com instituições de ensino, empresas da área de saúde e esportes, além de testar a viabilidade do projeto em um ambiente piloto. Também seria interessante realizar estudos sobre o impacto social e físico das atividades propostas, ampliando o alcance do projeto e fortalecendo sua relevância.
 
-### Sprint 1  
-*Atualizado em: 02/11/2024*
-
-| **Responsável** | **Tarefa/Requisito**      | **Iniciado em** | **Prazo**   | **Status** | **Terminado em** |
-|------------------|---------------------------|-----------------|-------------|------------|------------------|
-| Lucas            | Justificativa            | 23/08/2024      | 13/09/2024  | ✔️         | 05/09/2024       |
-| Gabriel          | Edição da documentação   | 23/08/2024      | 13/09/2024  | ✔️         | 08/09/2024       |
-| Samuel           | Introdução               | 23/08/2024      | 13/09/2024  | ✔️         | 11/09/2024       |
-| Samuel           | Contextualização         | 23/08/2024      | 13/09/2024  | ✔️         | 02/09/2024       |
-| Yuri             | Participantes do Processo | 23/08/2024     | 13/09/2024  | ✔️         | 13/09/2024       |
-| Gabriel          | Problema                 | 23/08/2024      | 13/09/2024  | ✔️         | 04/09/2024       |
-| Gabriel          | Objetivos Específicos    | 23/08/2024      | 13/09/2024  | ✔️         | 07/09/2024       |
-| Lucas            | Objetivo Geral           | 23/08/2024      | 13/09/2024  | ✔️         | 23/08/2024       |
-
----
-
-### Sprint 2  
-*Atualizado em: 02/11/2024*
-
-| **Responsável** | **Tarefa/Requisito**                 | **Iniciado em** | **Prazo**   | **Status** | **Terminado em** |
-|------------------|--------------------------------------|-----------------|-------------|------------|------------------|
-| Lucas e Gabriel  | Edição da documentação             | 06/09/2024      | 04/10/2024  | ✔️         | 04/10/2024       |
-| Lucas e Samuel   | Descrição da Modelagem do Processo | 06/09/2024      | 04/10/2024  | ✔️         | 04/10/2024       |
-| Lucas e Gabriel  | Modelagem da Situação Atual        | 06/09/2024      | 04/10/2024  | ✔️         | 04/10/2024       |
-| Lucas e Samuel   | Modelagem TO BE                    | 06/09/2024      | 04/10/2024  | ✔️         | 04/10/2024       |
-| Lucas e Gabriel     | Modelagem e Detalhamento do Processo 1 e 2 | 06/09/2024  | 04/10/2024  | ✔️         | 02/10/2024       |
-| Samuel e Yuri | Modelagem e Detalhamento do Processo 3 e 4 | 06/09/2024  | 04/10/2024  | ✔️         | 04/10/2024       |
-
----
-
-### Sprint 3  
-*Atualizado em: 02/11/2024*
-
-| **Responsável** | **Tarefa/Requisito**            | **Iniciado em** | **Prazo**   | **Status** | **Terminado em** |
-|------------------|---------------------------------|-----------------|-------------|------------|------------------|
-| Lucas             | Tecnologias                   | 05/10/2024      | 31/10/2024  | ✔️         | 25/10/2024       |
-| Samuel           | Arquitetura da solução        | 05/10/2024      | 31/10/2024  | ✔️         | 25/10/2024       |
-| Gabriel          | Edição da documentação        | 05/10/2024      | 31/10/2024  | ✔️         | 31/10/2024       |
-
----
-
-### Sprint 4  
-*Atualizado em: 04/12/2024*
-
-| **Responsável** | **Tarefa/Requisito**             | **Iniciado em** | **Prazo**   | **Status** | **Terminado em** |
-|------------------|----------------------------------|-----------------|-------------|------------|------------------|
-| Samuel           | Atualização Banco de Dados      | 22/11/2024      | 29/12/2024  | ✔️         | 29/11/2024       |
-| Lucas            | Requisitos Não Funcionais       | 22/11/2024      | 29/11/2024  | ✔️         | 06/11/2024       |
-
----
-
-### Sprint 5  
-*Atualizado em: 13/12/2024*
-
-| **Responsável** | **Tarefa/Requisito**                 | **Iniciado em** | **Prazo**   | **Status** | **Terminado em** |
-|------------------|--------------------------------------|-----------------|-------------|------------|------------------|
-| Gabriel          | Criação de frontend página de sugestões | 30/11/2024 | 13/12/2024  | ✔️         | 06/12/2024       |
-| Lucas            | Criação de frontend de página de login | 30/11/2024 | 13/12/2024  | ✔️         | 06/12/2024       |
-
----
-
-### Legenda
-
-- ✔️: Terminado  
-- 📝: Em execução  
-- ⌛: Atrasado  
-- ❌: Não iniciado  
+O Vem Comigo! reflete o compromisso dos estudantes em criar soluções que possam beneficiar a sociedade, sendo um exemplo de como a educação universitária pode gerar impacto positivo e promover mudanças significativas na qualidade de vida das pessoas.
