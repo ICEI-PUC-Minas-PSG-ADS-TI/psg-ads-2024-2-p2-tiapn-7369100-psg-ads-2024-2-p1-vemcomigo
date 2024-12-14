@@ -1,36 +1,42 @@
 
 # 6. Interface do Sistema
 
-<span style="color:red">Pré-requisitos: <a href="4-Projeto-Solucao.md"> Projeto da Solução</a></span>
-
-_Visão geral da interação do usuário por meio das telas do sistema. Apresente as principais interfaces da plataforma._
 
 ## 6.1. Tela principal do sistema
 
-_Descrição da tela principal do sistema._
+Tela principal, local onde o usuário pode buscar por companhia 
 
-[`Tela principal do sistema`](images/)
-
-
-## 6.2. Telas do processo 1
-
-_Descrição da tela relativa à atividade 1._
-
-[`Tela da atividade 1`](images/)
-
-_Descrição da tela relativa à atividade 2._
-
-[`Tela da atividade 2`](images/)
+[`Tela principal`](images/TelaBuscaPorCompanhia.jpg
+)
 
 
-## 6.3. Telas do processo 2
+## 6.2. Tela de cadastro
 
-_Descrição da tela relativa à atividade 1._
+Tela de cadastramento do usuário.
 
-[`Tela da atividade 1`](images/)
+[`Tela de cadastro`](images/TelaCadastro.jpg)
 
-_Descrição da tela relativa à atividade 2._
 
-[`Tela da atividade 2`](images/)
+
+## 6.3. Tela de buscar grupo
+
+Tela onde o usuário poderá buscar e entrar em um grupo
+
+[`Tela de busca do grupo`](images/TelaJuntarGrupo1.jpg)
+
+## 6.3.1 Tela de visualização do grupo
+
+Tela onde o usuário poderá visualizar as informações do grupo
+
+[`Tela de visualização`](images/TelaJuntarGrupo2.jpg)
+
+## 6.4 Tela de criação do grupo
+
+Tela onde é possível criar um grupo
+
+[`Tela de criação do grupo`](images/TelaCriaçãoGrupo.jpg)
+
+
+
 
 
