@@ -6,7 +6,7 @@
 
 `Segundo Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Desenvolvimento de um site que tem como objetivo fornecer oportunidades de praticas esportivas as pessoas, utilizando a socialização e formação de grupos como chave principal.
 
 ## Integrantes
 
