@@ -1,60 +1,80 @@
-# 5. Planejamento do Projeto
-
-> Aqui será feito o gerenciamento das tarefas de implementação do projeto.
+# Planejamento do Projeto
 
 ## 5.1. Divisão de Papéis
 
-> Apresente a divisão de papéis entre os membros do grupo em cada sprint. O desejável é que, em cada sprint, o aluno assuma papéis diferentes na disciplina. Siga o modelo do exemplo abaixo:
+- **Product Owner:** Lucas Vinícius Farias Cunha
+- **Scrum Master:** Samuel Vitor Silveira da Silva
+- **Desenvolvedor Front-end:** Gabriel Assis Melo Noronha
+- **Desenvolvedor Back-end:** Lucas Vinícius Farias Cunha
+  
+---
 
-### Sprint 1
-- _Scrum master_: AlunaX
-- Protótipos: AlunoY
-- Testes: AlunoK
-- Documentação: AlunaZ
+## 5.2. Quadro de Tarefas
 
-### Sprint 2
-- _Scrum master_: AlunaY
-- Desenvolvedor _front-end_: AlunoX
-- Desenvolvedor _back-end_: AlunoK
-- Testes: AlunaZ
+### Sprint 1  
+*Atualizado em: 02/11/2024*
 
-## 5.1. Quadro de tarefas
+| **Responsável** | **Tarefa/Requisito**      | **Iniciado em** | **Prazo**   | **Status** | **Terminado em** |
+|------------------|---------------------------|-----------------|-------------|------------|------------------|
+| Lucas            | Justificativa            | 23/08/2024      | 13/09/2024  | ✔️         | 05/09/2024       |
+| Gabriel          | Edição da documentação   | 23/08/2024      | 13/09/2024  | ✔️         | 08/09/2024       |
+| Samuel           | Introdução               | 23/08/2024      | 13/09/2024  | ✔️         | 11/09/2024       |
+| Samuel           | Contextualização         | 23/08/2024      | 13/09/2024  | ✔️         | 02/09/2024       |
+| Yuri             | Participantes do Processo | 23/08/2024     | 13/09/2024  | ✔️         | 13/09/2024       |
+| Gabriel          | Problema                 | 23/08/2024      | 13/09/2024  | ✔️         | 04/09/2024       |
+| Gabriel          | Objetivos Específicos    | 23/08/2024      | 13/09/2024  | ✔️         | 07/09/2024       |
+| Lucas            | Objetivo Geral           | 23/08/2024      | 13/09/2024  | ✔️         | 23/08/2024       |
 
-> Apresente a divisão de tarefas entre os membros do grupo e o acompanhamento da execução, conforme exemplo abaixo.
+---
 
-## Sprint 1
+### Sprint 2  
+*Atualizado em: 02/11/2024*
 
-Atualizado em: 21/04/2024
+| **Responsável** | **Tarefa/Requisito**                 | **Iniciado em** | **Prazo**   | **Status** | **Terminado em** |
+|------------------|--------------------------------------|-----------------|-------------|------------|------------------|
+| Lucas e Gabriel  | Edição da documentação             | 06/09/2024      | 04/10/2024  | ✔️         | 04/10/2024       |
+| Lucas e Samuel   | Descrição da Modelagem do Processo | 06/09/2024      | 04/10/2024  | ✔️         | 04/10/2024       |
+| Lucas e Gabriel  | Modelagem da Situação Atual        | 06/09/2024      | 04/10/2024  | ✔️         | 04/10/2024       |
+| Lucas e Samuel   | Modelagem TO BE                    | 06/09/2024      | 04/10/2024  | ✔️         | 04/10/2024       |
+| Lucas e Gabriel     | Modelagem e Detalhamento do Processo 1 e 2 | 06/09/2024  | 04/10/2024  | ✔️         | 02/10/2024       |
+| Samuel e Yuri | Modelagem e Detalhamento do Processo 3 e 4 | 06/09/2024  | 04/10/2024  | ✔️         | 04/10/2024       |
 
-| Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
-| :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| AlunaX        | Introdução | 01/02/2024     | 07/02/2024 | ✔️    | 05/01/2005      |
-| AlunaZ        | Objetivos    | 03/02/2024     | 10/02/2024 | 📝    |                 |
-| AlunoY        | Histórias de usuário  | 01/01/2024     | 07/01/2005 | ⌛     |                 |
-| AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
+---
 
-## Sprint 2
+### Sprint 3  
+*Atualizado em: 02/11/2024*
 
-Atualizado em: 21/04/2024
+| **Responsável** | **Tarefa/Requisito**            | **Iniciado em** | **Prazo**   | **Status** | **Terminado em** |
+|------------------|---------------------------------|-----------------|-------------|------------|------------------|
+| Lucas             | Tecnologias                   | 05/10/2024      | 31/10/2024  | ✔️         | 25/10/2024       |
+| Samuel           | Arquitetura da solução        | 05/10/2024      | 31/10/2024  | ✔️         | 25/10/2024       |
+| Gabriel          | Edição da documentação        | 05/10/2024      | 31/10/2024  | ✔️         | 31/10/2024       |
 
-| Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
-| :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| AlunaX        | Home-Page        | 01/02/2024     | 07/03/2024 | ✔️    | 05/01/2005      |
-| AlunaZ        | CSS Unificado    | 03/02/2024     | 10/03/2024 | 📝    |                 |
-| AlunoY        | Página de login  | 01/02/2024     | 07/03/2024 | ⌛     |                 |
-| AlunoK        | Script de login  |  01/01/2024    | 12/03/2024 | ❌    |       |
+---
 
+### Sprint 4  
+*Atualizado em: 04/12/2024*
 
-Legenda:
-- ✔️: terminado
-- 📝: em execução
-- ⌛: atrasado
-- ❌: não iniciado
+| **Responsável** | **Tarefa/Requisito**             | **Iniciado em** | **Prazo**   | **Status** | **Terminado em** |
+|------------------|----------------------------------|-----------------|-------------|------------|------------------|
+| Samuel           | Atualização Banco de Dados      | 22/11/2024      | 29/12/2024  | ✔️         | 29/11/2024       |
+| Lucas            | Requisitos Não Funcionais       | 22/11/2024      | 29/11/2024  | ✔️         | 06/11/2024       |
 
+---
 
+### Sprint 5  
+*Atualizado em: 13/12/2024*
 
-## Links Úteis
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+| **Responsável** | **Tarefa/Requisito**                 | **Iniciado em** | **Prazo**   | **Status** | **Terminado em** |
+|------------------|--------------------------------------|-----------------|-------------|------------|------------------|
+| Gabriel          | Criação de frontend página de sugestões | 30/11/2024 | 13/12/2024  | ✔️         | 06/12/2024       |
+| Lucas            | Criação de frontend de página de login | 30/11/2024 | 13/12/2024  | ✔️         | 06/12/2024       |
 
+---
 
+### Legenda
+
+- ✔️: Terminado  
+- 📝: Em execução  
+- ⌛: Atrasado  
+- ❌: Não iniciado  
