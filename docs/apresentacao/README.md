@@ -4,6 +4,6 @@
 
 ## Slide
 
-[`Slide de apresentação`](docs/TI.pdf)
+[`Slide de apresentação`](TI.pdf)
 
 
