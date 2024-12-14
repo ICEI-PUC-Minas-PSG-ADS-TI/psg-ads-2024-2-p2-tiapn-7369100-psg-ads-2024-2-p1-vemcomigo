@@ -42,7 +42,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<li><a href="docs/presentation/README.md"> Apresentação da solução</a></li>
 
 
 ## Histórico de versões
