@@ -1,4 +1,4 @@
-# 5. Planejamento do Projeto
+# 5. Gerenciamento do Projeto
 
 ## 5.1. Divisão de Papéis
 
