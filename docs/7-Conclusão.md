@@ -36,8 +36,8 @@
 | Lucas e Samuel   | Descrição da Modelagem do Processo | 06/09/2024      | 04/10/2024  | ✔️         | 04/10/2024       |
 | Lucas e Gabriel  | Modelagem da Situação Atual        | 06/09/2024      | 04/10/2024  | ✔️         | 04/10/2024       |
 | Lucas e Samuel   | Modelagem TO BE                    | 06/09/2024      | 04/10/2024  | ✔️         | 04/10/2024       |
-| Yuri e Lucas     | Modelagem e Detalhamento do Processo 1 | 06/09/2024  | 04/10/2024  | ✔️         | 02/10/2024       |
-| Samuel e Gabriel | Modelagem e Detalhamento do Processo 2 | 06/09/2024  | 04/10/2024  | ✔️         | 04/10/2024       |
+| Lucas e Gabriel     | Modelagem e Detalhamento do Processo 1 e 2 | 06/09/2024  | 04/10/2024  | ✔️         | 02/10/2024       |
+| Samuel e Yuri | Modelagem e Detalhamento do Processo 3 e 4 | 06/09/2024  | 04/10/2024  | ✔️         | 04/10/2024       |
 
 ---
 
@@ -46,7 +46,7 @@
 
 | **Responsável** | **Tarefa/Requisito**            | **Iniciado em** | **Prazo**   | **Status** | **Terminado em** |
 |------------------|---------------------------------|-----------------|-------------|------------|------------------|
-| Yuri             | Tecnologias                   | 05/10/2024      | 31/10/2024  | ✔️         | 25/10/2024       |
+| Lucas             | Tecnologias                   | 05/10/2024      | 31/10/2024  | ✔️         | 25/10/2024       |
 | Samuel           | Arquitetura da solução        | 05/10/2024      | 31/10/2024  | ✔️         | 25/10/2024       |
 | Gabriel          | Edição da documentação        | 05/10/2024      | 31/10/2024  | ✔️         | 31/10/2024       |
 
